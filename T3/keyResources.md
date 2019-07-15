@@ -1,4 +1,4 @@
-# CIST 2100 - T2 Laptop Business assignment - Communication Channels
+# CIST 2100 - T3 Laptop Business assignment - Key Activities & Key Resources
 CIST 2100 - Orgs Apps and Technology
 Authors: Kyle, Louis, Son
 

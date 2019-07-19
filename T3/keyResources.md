@@ -17,7 +17,7 @@ Our key activities are shipping laptops for students to use. We'll be developing
 * Store front (at office)
 * Reliable shipping service
 * Laptops
-* Our brand name "Laptops for Students
+* Our brand name "Laptops for Students"
 * IT services and clerks for store front
 
 ## Key Technologies

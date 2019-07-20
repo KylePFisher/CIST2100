@@ -33,7 +33,7 @@ Business model: Lending high-performance laptops to a certain group of students 
       </ul>
     </td>
     <td>
-      <h3>Key Activities</h3>
+      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/master/T3/keyResources.md#key-activities">Key Activities</a></h3>
       <ul>
         <li>Managing distribution channels for inbound hardware</li>
         <li>Managing inventory and stock of laptops</li>
@@ -41,7 +41,7 @@ Business model: Lending high-performance laptops to a certain group of students 
       </ul>
     </td>
     <td rowspan="2" colspan="2">
-      <h3>Value Propositions</h3>
+      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/master/T1/marketFeasability.md#value-proposition-ideas">Value Propositions</a></h3>
       <p>Our business allows low-income students to acquire the specific hardware and software specifications needed to complete their classes at a smaller cost than traditional laptop rental businesses.</p>
     </td>
     <td>
@@ -53,7 +53,7 @@ Business model: Lending high-performance laptops to a certain group of students 
       </ul>
     </td>
     <td rowspan="2">
-      <h3>Customer Segments</h3>
+      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/master/T1/marketFeasability.md#customer-segment-ideas">Customer Segments</a></h3>
       <b>A niche market of low-income college students with coursework that leverages laptops</b>
       <ul>
         <li>Computer Science majors</li>
@@ -64,7 +64,7 @@ Business model: Lending high-performance laptops to a certain group of students 
   </tr>
   <tr>
     <td>
-      <h3>Key Resources</h3>
+      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/master/T3/keyResources.md#key-resources">Key Resources</a></h3>
       <ul>
         <li>"Laptops for Students" branding</li>
         <li>Laptops available for rent</li>
@@ -72,7 +72,7 @@ Business model: Lending high-performance laptops to a certain group of students 
       </ul>
     </td>
     <td>
-      <h3>Channels</h3>
+      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/master/T2/channels.md">Channels</a></h3>
       <ul>
         <li>Social Media</li>
         <li>Opt-in email and text messaging</li>

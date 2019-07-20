@@ -46,9 +46,11 @@ Business model: Lending high-performance laptops to a certain group of students 
     </td>
     <td>
       <h3>Customer Relationships</h3>
-      <p>Self-service</p>
-      <p>Automated services</p>
-      <p>Personal assistance</p>
+      <ul>
+        <li>Self-service</li>
+        <li>Automated services</li>
+        <li>Personal assistance</li>
+      </ul>
     </td>
     <td rowspan="2">
       <h3>Customer Segments</h3>

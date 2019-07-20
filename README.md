@@ -8,3 +8,84 @@ Team members: Son Nguyen - AI Developer, Louis Nodskov - Web Developer, Kyle Fis
 Current Leader: Kyle Fisher
 
 Business model: Lending high-performance laptops to a certain group of students or users who want to use a certain monthly-paid set of programs for a certain period of time
+
+## Business Model Canvas
+<table>
+  <tr>
+    <td rowspan="2">
+      <h3>Key Partners</h3>
+      <b>Shipping Companies</b>
+      <ul>
+        <li>UPS</li>
+        <li>USPS</li>
+        <li>Fedex</li>
+      </ul>
+      <b>Laptop distributors</b>
+      <ul>
+        <li>Hewlett Packard</li>
+        <li>Laptop Plaza</li>
+        <li>Ambar Distributors</li>
+      </ul>
+      <b>Insurance companies</b>
+      <ul>
+        <li>Worth ave.</li>
+        <li>Asurian</li>
+      </ul>
+    </td>
+    <td>
+      <h3>Key Activities</h3>
+      <ul>
+        <li>Managing distribution channels for inbound hardware</li>
+        <li>Managing inventory and stock of laptops</li>
+        <li>Managing logistics of shipping and distributing rental machines to customers</li>
+      </ul>
+    </td>
+    <td rowspan="2" colspan="2">
+      <h3>Value Propositions</h3>
+      <p>Our business allows low-income students to acquire the specific hardware and software specifications needed to complete their classes at a smaller cost than traditional laptop rental businesses.</p>
+    </td>
+    <td>
+      <h3>Customer Relationships</h3>
+      <p>Self-service</p>
+      <p>Automated services</p>
+      <p>Personal assistance</p>
+    </td>
+    <td rowspan="2">
+      <h3>Customer Segments</h3>
+      <b>A niche market of low-income college students with coursework that leverages laptops</b>
+      <ul>
+        <li>Computer Science majors</li>
+        <li>Engineering majors</li>
+        <li>Graphic Design majors</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td>
+      <h3>Key Resources</h3>
+      <ul>
+        <li>"Laptops for Students" branding</li>
+        <li>Laptops available for rent</li>
+        <li>Different kinds of software available for rental</li>
+      </ul>
+    </td>
+    <td>
+      <h3>Channels</h3>
+      <ul>
+        <li>Social Media</li>
+        <li>Opt-in email and text messaging</li>
+        <li>Online storefront and mobile application notifications</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="3">
+      <h3>Cost Structure</h3>
+      <b>TBD</b>
+    </td>
+    <td colspan="3">
+      <h3>Revenue Streams</h3>
+      <b>TBD</b>
+    </td>
+  </tr>
+</table>

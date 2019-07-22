@@ -7,8 +7,8 @@ Team Leader: Son Nguyen
 ## Customer Segment ideas:
 Customer segment:
 
-    Targeting Students in the Omaha Metro area with a demand for a set of monthly-paid softwares in a certain semester to finish classes: engineering softwares for design class
-        They need laptops that are faster than library's to save time
+    Targeting Students in the Omaha Metro area with a demand for a set of monthly-paid softwares in a certain semester to finish classes: engineering softwares for design class.
+        They need laptops that are faster than the library's to save time
         Ease of time for in state shipping or pickup at warehouse through order on website
     People in need for a fast laptop with certain professional softwares
         They need laptops that are faster than library's to save time
@@ -20,7 +20,7 @@ The value from our business will come from the quick and easy online retail appl
 
 Value will also come from the fact that students will be able to work wherever and whenever, without ever having to go to a library to use their systems. 
 
-Our app will first be available for mobile devices due to the fact that students who need laptops will likely only have a phone to use. 
+Our application will first be available for mobile devices due to the fact that students who need laptops will likely only have a phone to use. 
 
 The application will show the types of laptops available, their specifications, and pricing rates for each day the student would like to rent them.
 
@@ -33,7 +33,7 @@ Our business will provide students with the freedom of working on whatever they 
 ## Business overview:
 The customer segments we're targeting consist of lower-middle class students who would benefit from a laptop required for their coursework, but cannot afford one of thier own.
 
-The customer segments mentioned is a relatively swollen market with the onset of online classes; however, we're focusing on a primary customer segment that would consist of lower-middle class students going into a trade specifically requirng coursework on computers, such as Information Technology or Engineering students.
+The customer segments mentioned is a relatively swollen market with the onset of online classes; however, we're focusing on a primary customer segment that would consist of lower-middle class students going into a trade specifically requiring coursework on computers, such as Information Technology or Engineering students.
 
 Our laptop rental business is highly specialized for providing a small selection of quality laptops to the end consumers efficiently and cost effectively, with a variety of software that can be selected upon rental.
 
@@ -45,6 +45,6 @@ Having a decent variety of machines allows us to target our primary customer seg
 
 As the project line ages over the next five years, we can offer our older laptops for lower prices, such as refurbished or aging high-end machines which gives us more longevity out of our laptops and keep costs down for our primary customer segment.
 
-The software on offer would consist of common producitivty software such as the Microsoft Office suite, but also includes options for specialized software such as IntelliJ and AutoCAD for Information Technology and Engineering students respectively.
+The software offered would consist of common producitivty software such as the Microsoft Office suite, but also includes options for specialized software such as IntelliJ and AutoCAD for Information Technology and Engineering students respectively.
 
-As the business grows over time, the current software offerings would become cheaper thanks to economy of scale with licensing costs. More software would also be offered, to allow for more specialized students to leverage the service such as Health Information Technology or Automotive Technology students.
+As the business grows over time, the current software offerings would become cheaper thanks to economies of scale with licensing costs. More software would also be offered, to allow for more specialized students to leverage the service such as Health Information Technology or Automotive Technology students.

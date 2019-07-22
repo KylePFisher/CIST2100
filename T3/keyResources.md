@@ -6,7 +6,7 @@ Team Leader: Kyle Fisher
 
 ## Key Activities
 
-Our key activities are shipping laptops for students to use. We'll be developing physical and digital products. In terms of physical products we'll be providing our store front for students to help them make any choices on renting laptops. In terms of digital products our app will be looking to provide something to the similar effect of a store, but on a users phone. We also have a website as a digital platform for infomation and order. Problems will be solved through digital and physical means whether they have a question to ask on the app/website or in the store we'll be able to help. Also, if they have any problem with laptops during rental period, we can immediately provide fixes or laptop substitution since the business is local in Nebraska.
+Our key activities are shipping laptops for students to use. We'll be developing physical and digital products. In terms of physical products we'll be providing our store front for students to help them make any choices on renting laptops. In terms of digital products our app will be looking to provide something to the similar effect of a store, but on a users phone. We also have a website as a digital platform for information and orders. Problems will be solved through digital and physical means whether they have a question to ask on the app/website or in the store we'll be able to help. Also, if they have any problem with laptops during rental period, we can immediately provide fixes or laptop substitution since the business is local in Nebraska.
 
 ## Key Resources
 
@@ -20,8 +20,8 @@ Our key activities are shipping laptops for students to use. We'll be developing
   and data about our customers. Value is also provided through allowing our users to quickly use our application and website without
   slow response times.
 * Application developers - Our own
-  * In order to build an app we will need developers. We will be looking to hire a team of developers to put together our mobile app for
-  Android and iOS devices. This provides value to the business as we need a well designed application to get our business rolling. 
+  * In order to build an application we will need developers. We will be looking to hire a team of developers to put together our mobile app for
+  Android and iOS devices. This provides value to the business as we need a well-designed application to get our business rolling. 
 * Store front (at office) - rent
   * We would most likely rent out space near major roads in the Omaha area. More specifically, a location around either I-80 or Dodge Rd would be most ideal. This would provide great value to our business as it would provide a central place for customers to ask questions as well as providing a central place for employees to work. 
 * Laptops - purchase
@@ -49,6 +49,6 @@ Our business focuses on three key areas in relation to requiring key technologie
 * Business management software
 
 The website/digital storefront requires servers hosting a web service stack such as a LAMP stack. These servers will need an OS, web server software, and a database.
-The mobile application will require back-end APIs to display dynamic content and products, as well as process payments, so a web application stack is required here. Our mobile developers will also need access to a decent IDE and test environments to develop new updaates to the mobile app.
+The mobile application will require back-end APIs to display dynamic content and products, as well as process payments, so a web application stack is required here. Our mobile developers will also need access to a decent IDE and test environments to develop new updates to the mobile app.
 Our logistics service will largely be managed using a transaction processing system such as an inventory management system. This system should allow efficient tracking and maintenance of inventory, deliveries, and allow access for support to assist with customer problems.
 Business management software handles the profiles of employees for salaries, punctuality, online personal documents for legal contacts. 

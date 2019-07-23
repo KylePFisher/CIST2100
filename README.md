@@ -52,9 +52,13 @@ Business model: Lending high-performance laptops to a certain group of students 
       </ul>
     </td>
     <td>
-      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/master/T2/channels.md">Channels</a></h3>
+      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/reformatting/T2/channels.md#summary-of-channels">Channels</a></h3>
       <ul>
         <li>Social Media</li>
+		<li>Campus fliers</li>
+		<li>Campus bulletin boards</li>
+		<li>Campus Faculty</li>
+		<li>Surveys</li>
         <li>Opt-in email and text messaging</li>
         <li>Online storefront and mobile application notifications</li>
       </ul>

@@ -4,9 +4,18 @@ Authors: Kyle, Louis, Son
 
 Team Leader: Louis Nodskov
 
+## Customer Relationships
+
+The relationship we'd expect from our customers is largely a mix of Self-service and Automated services when purchasing and selecting products, with some Personal assistance support available for helping with incomplete orders or hardware/software issues.
+
+Our Self-service and Automated service relationships are maintained through interaction with our online store and mobile application, allowing users to pick the products that best service them.
+
+We will offer personal assistance through phone or email communication, where we will assist the customer with choosing their hardware/software and assist with any problems related to their orders or their rental laptop.
+
+
 ## Establishing Communication
 
-Since our company is looking to market toward a younger crowd we will use social media as a primary source for customer reach out. We'll
+Since our company is looking to market toward a younger crowd, we will use social media as a primary source for customer reach out. We'll
 primarily use social media through Instagram, Twitter, Facebook to attempt to reach out to college aged students. Another method for
 reaching out is via handing out information on campus. Handing out fliers will be a great way to get the initial word out as we'll be
 directly contacting the crowd we want to help. Also, pinning our information and offers on campus information boards is another way to
@@ -23,15 +32,15 @@ Our laptop business would maintain relationships with customers through public c
 
 Public communication would consist of offers related to updates to the service such as new hardware and software offerings, while private communication channels would tailor offerings and discounts to a user based off of their purchases.
 
-The relationship we'd expect from our customers is largely a mix of Self-service and Automated services when purchasing and selecting products, with some Personal assistance support available for helping with incomplete orders or hardware/software issues.
-
-As a rental business our relationship with the customer largely depends on the user's need for a specific product, so there is limited opporotunities to up-sell any other products, but a lot of opportunities to maintain a customer through private discounts and offers.
+As a rental business our relationship with the customer largely depends on the user's need for a specific product, so there is limited opportunities to up-sell any other products, but a lot of opportunities to maintain a customer through private discounts and offers.
 
 ## Summary of Channels
 
 * Social Media
   * Through Instagram, Twitter, and Facebook we look to relate to customers issues and not be just another business just looking to make
   money off their customers.
+* Opt-in text messaging and emails
+  * After users have made an account with us, they are given the opportunity to opt-in to texting and email communication for discounts and special offers.
 * Handing out fliers on campus
   * Through handing out fliers we look to let students know about what we do and answer immediate questions that students may have. In
   this channel of communication we hope to build some trust with the student body as a whole by actually going out and explaining our
@@ -41,6 +50,6 @@ As a rental business our relationship with the customer largely depends on the u
   check the information boards around campus frequently and use of these boards will be helpful to let students know who we are.
 * Talking to University Faculty
   * Reaching out to University faculty would also be a big help to our company as getting them familiar with our business could help
-  them help their students if any of them are in need of a laptop.
+  them help their students if any of them need of a laptop.
 * Surveys 
   * We'll give students an opportunity to help us improve our service after they have returned their laptops. This will help us address any criticisms a student may have of our service and better our service in the future. 

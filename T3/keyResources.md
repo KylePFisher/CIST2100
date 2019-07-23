@@ -49,6 +49,9 @@ Our business focuses on three key areas in relation to requiring key technologie
 * Business management software
 
 The website/digital storefront requires servers hosting a web service stack such as a LAMP stack. These servers will need an OS, web server software, and a database.
+
 The mobile application will require back-end APIs to display dynamic content and products, as well as process payments, so a web application stack is required here. Our mobile developers will also need access to a decent IDE and test environments to develop new updates to the mobile app.
+
 Our logistics service will largely be managed using a transaction processing system such as an inventory management system. This system should allow efficient tracking and maintenance of inventory, deliveries, and allow access for support to assist with customer problems.
+
 Business management software handles the profiles of employees for salaries, punctuality, online personal documents for legal contacts. 

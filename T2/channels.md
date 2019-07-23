@@ -15,16 +15,30 @@ We will offer personal assistance through phone or email communication, where we
 
 ## Establishing Communication
 
+**Social Media**
 Since our company is looking to market toward a younger crowd, we will use social media as a primary source for customer reach out. We'll
-primarily use social media through Instagram, Twitter, Facebook to attempt to reach out to college aged students. Another method for
+primarily use social media through Instagram, Twitter, Facebook to attempt to reach out to college aged students. 
+
+**University Campus**
+Another method for
 reaching out is via handing out information on campus. Handing out fliers will be a great way to get the initial word out as we'll be
 directly contacting the crowd we want to help. Also, pinning our information and offers on campus information boards is another way to
-reach people in need. Our third way of getting to students is by pitching our business to faculty members in hopes that they will let 
-students know about our service and what we do. Finally, we will establish an official website for information display and order process
+reach people in need. 
+
+**Faculty**
+Our third way of getting to students is by pitching our business to faculty members in hopes that they will let 
+students know about our service and what we do. 
+
+**Website**
+Finally, we will establish an official website for information display and order process
 for convenience. Customer reviews will also be collected at the end of rental period to strengthen the relationships with customers and
 also improve our quality of service. 
 
-Customers will evaluate our products through our online store where they will see the laptops we provide along with the laptops specifications and the daily rental price. While purchasing from the website or app the customer will be able to choose their pick-up method. They may either have it shipped to their address or may pick it up from one of our locations. After this, the customer will see updates on the progress of getting their laptop ready to use and will be alerted when the laptop has either arrived or is ready for pick up. Extra support is provided on the app or website via a listing of our email, phone number, and address for customers to ask any burning questions they may have. We will also offer a chat option on the website where people will be able to support those with questions.
+**Purchasing Process**
+Customers will evaluate our products through our online store where they will see the laptops we provide along with the laptops specifications and the daily rental price. While purchasing from the website or app the customer will be able to choose their pick-up method. They may either have it shipped to their address or may pick it up from one of our locations. After this, the customer will see updates on the progress of getting their laptop ready to use and will be alerted when the laptop has either arrived or is ready for pick up. 
+
+**Support in App, Website, E-mail, Phone, Physical Address**
+Extra support is provided on the app or website via a listing of our email, phone number, and address for customers to ask any burning questions they may have. We will also offer a chat option on the website where people will be able to support those with questions.
 
 ## Maintaining Communication
 

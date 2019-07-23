@@ -6,7 +6,7 @@ Team Leader: Kyle Fisher
 
 ## Key Activities
 
-Our key activities are shipping laptops for students to use. We'll be developing physical and digital products. In terms of physical products we'll be providing our store front for students to help them make any choices on renting laptops. In terms of digital products our app will be looking to provide something to the similar effect of a store, but on a users phone. We also have a website as a digital platform for information and orders. Problems will be solved through digital and physical means whether they have a question to ask on the app/website or in the store we'll be able to help. Also, if they have any problem with laptops during rental period, we can immediately provide fixes or laptop substitution since the business is local in Nebraska.
+Our key activities are shipping laptops for students to use. We'll be developing physical and digital products. In terms of physical products, we'll be providing our store front for students to help them make any choices on renting laptops. In terms of digital products our app will be looking to provide something to the similar effect of a store, but on a user's phone. We also have a website as a digital platform for information and orders. Problems will be solved through digital and physical means whether they have a question to ask on the app/website or in the store we'll be able to help. Also, if they have any problem with laptops during rental period, we can immediately provide fixes or laptop substitution since the business is local in Nebraska.
 
 ## Key Resources
 
@@ -20,7 +20,7 @@ Our key activities are shipping laptops for students to use. We'll be developing
   and data about our customers. Value is also provided through allowing our users to quickly use our application and website without
   slow response times.
 * Application developers - Our own
-  * In order to build an application we will need developers. We will be looking to hire a team of developers to put together our mobile app for
+  * In order to build an application, we will need developers. We will be looking to hire a team of developers to put together our mobile app for
   Android and iOS devices. This provides value to the business as we need a well-designed application to get our business rolling. 
 * Store front (at office) - rent
   * We would most likely rent out space near major roads in the Omaha area. More specifically, a location around either I-80 or Dodge Rd would be most ideal. This would provide great value to our business as it would provide a central place for customers to ask questions as well as providing a central place for employees to work. 
@@ -31,7 +31,7 @@ Our key activities are shipping laptops for students to use. We'll be developing
   provided for students who need a more powerful computer for their classes. This second tier will be a computer with a higher end CPU,
   more RAM and possibly a decent GPU.
 * Our brand name "Laptops for Students" - Our own
-  * We will definitely trademark our brand name to protect its use. Our brand name will be included in our application and website.
+  * We will trademark our brand name to protect its use. Our brand name will be included in our application and website.
   Hopefully our name--as straightforward as it is--will get the message out about what we do.
 * IT services and clerks for store front - rent and hire
   * For our services to help those with issues we will try and have a good staff of technicians to help solve issues students may have.

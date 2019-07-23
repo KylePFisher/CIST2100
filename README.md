@@ -44,7 +44,7 @@ Business model: Lending high-performance laptops to a certain group of students 
       </ul>
     </td>
     <td>
-      <h3>Customer Relationships</h3>
+      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/reformatting/T2/channels.md#customer-relationships">Customer Relationships</a></h3>
       <ul>
         <li>Self-service</li>
         <li>Automated services</li>

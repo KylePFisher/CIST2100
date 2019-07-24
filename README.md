@@ -82,7 +82,7 @@ Business model: Lending high-performance laptops to a certain group of students 
       <b>Insurance companies</b>
       <ul>
         <li>Worth ave.</li>
-        <li>Asurian</li>
+        <li>Asurion</li>
       </ul>
     </td>
     <td>

@@ -44,7 +44,7 @@ Business model: Lending high-performance laptops to a certain group of students 
       </ul>
     </td>
     <td>
-      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/reformatting/T2/channels.md#customer-relationships">Customer Relationships</a></h3>
+      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/master/T2/channels.md#customer-relationships">Customer Relationships</a></h3>
       <ul>
         <li>Self-service</li>
         <li>Automated services</li>
@@ -52,7 +52,7 @@ Business model: Lending high-performance laptops to a certain group of students 
       </ul>
     </td>
     <td>
-      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/reformatting/T2/channels.md#summary-of-channels">Channels</a></h3>
+      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/master/T2/channels.md#summary-of-channels">Channels</a></h3>
       <ul>
         <li>Social Media</li>
 		<li>Campus fliers</li>
@@ -66,7 +66,7 @@ Business model: Lending high-performance laptops to a certain group of students 
   </tr>
   <tr>
     <td>
-      <h3>Key Partners</h3>
+      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/master/T4/keyPartners.md#our-key-partners">Key Partners</a></h3>
       <b>Shipping Companies</b>
       <ul>
         <li>UPS</li>
@@ -82,7 +82,7 @@ Business model: Lending high-performance laptops to a certain group of students 
       <b>Insurance companies</b>
       <ul>
         <li>Worth ave.</li>
-        <li>Asurian</li>
+        <li>Asurion</li>
       </ul>
     </td>
     <td>

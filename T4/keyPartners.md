@@ -1,4 +1,4 @@
-# CIST 2100 - T3 Laptop Business assignment - Key Partners & Website Design
+# CIST 2100 - T3 Laptop Business assignment - Key Partners
   CIST 2100 - Orgs Apps and Technology
   Authors: Kyle, Louis, Son
 
@@ -6,7 +6,7 @@
   
 ## Our Key Partners
 
-* Shipping Services (USPS, UPS, Fedex)
+* Shipping Services (USPS, UPS, FedEx)
   * Services from these companies will be vital for our business model. Through these services we can promise a timely arrival of our laptops
   for students who ordered them to their address. They also provide a key service for shipping any hardware we made need to fix our laptops
   when they eventually get broken. They help us reduce costs by allowing us to rely on their logistics systems instead of building our own.
@@ -21,3 +21,7 @@
   Asurion will help overall with lowering the costs of fixing our devices. The key activities that these companies interact with mainly has
   to do with the management of our laptop inventory as a whole as we will likely have constant issues to deal with.
 * Community Colleges / Universities around Omaha (MCC, UNO)
+  * Our final group of partners are universities. If we can get a university/college to work with our business, it would help us massively 
+  to reach the students of that university/college. This would be influential in our key processes by helping students know about our
+  service. Partnering with these institutions would lower our costs heavily as we will not have to do as much on the groundwork to let
+  students know about Laptops for Students.

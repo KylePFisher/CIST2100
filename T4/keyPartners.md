@@ -25,3 +25,7 @@
   to reach the students of that university/college. This would be influential in our key processes by helping students know about our
   service. Partnering with these institutions would lower our costs heavily as we will not have to do as much on the groundwork to let
   students know about Laptops for Students.
+* Software Companies (SolidWorks, Autodesk, CorelDRAW, etc.)
+  * These companies that provide these software are crucial to our business model because we need to make affordable deals with them so
+  that 
+    we can rent the program for a long time with more competitive price and make difference from renting the laptops out for students

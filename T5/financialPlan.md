@@ -5,7 +5,7 @@ Authors: Kyle, Louis, Son
 Team Leader: Son Nguyen
 
 ## Our Cost Structure
-We have two major categories of costs:
+We have three major categories of costs:
 
 ### Startup Costs
 	* Inventory purchases

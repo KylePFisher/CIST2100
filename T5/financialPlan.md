@@ -59,3 +59,8 @@ https://www.pewresearch.org/fact-tank/2018/10/26/nearly-one-in-five-teens-cant-a
 
 
 ## Our Financial Plan
+* Sales forecast: 
+* Expense Budget: 
+* Cash-flow Statement: 
+* Income Projection: 
+* Assets and Liabilities: 

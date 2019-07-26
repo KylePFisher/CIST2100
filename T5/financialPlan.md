@@ -22,6 +22,7 @@ We have three major categories of costs:
 		* Website maintenance: $30,000 ($13 an hour)
 		* Mobile app developer: $30,000 (Phonegap dev at $16 an hour)  (https://www.upwork.com/hiring/mobile/cost-to-hire-a-mobile-developer/)
 		* Full time hardware/software support x 2: $60,000 
+		* Total : $211,000
 	* Taxes
 		* $808 for an LLC (www.calstartuplawfirm.com/Apps/calculate-2018.php calculator)
 	* Rent
@@ -32,6 +33,7 @@ We have three major categories of costs:
 		* $45,000 (About $60 per year for a single user at about 150 users = $9.000 x 5 different softwares) (https://www.quora.com/How-much-are-software-licensing-fees)
 	* Site and API hosting
 		* $2,400 ($1,200 per site x 2) (https://financesonline.com/how-much-does-it-cost-to-host-a-website-in-2018/)
+	* Grand total: $303,672
 ### Variable costs Annual
 	* Insurance
 		* $50 per laptop (https://askbobrankin.com/do_you_need_laptop_insurance.html)

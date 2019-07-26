@@ -19,8 +19,8 @@ We have two major categories of costs:
 	* Wages and Benefits
 		* CEO: $60,000
 		* Warehouse Employee: $31,000  (https://www.glassdoor.com/Salaries/warehouse-worker-salary-SRCH_KO0,16.htm)
-		* Website maintenance: $30,000 ($13 an hour): $30,000
-		* Mobile app developer (Phonegap dev at $16 an hour): $30,000 (https://www.upwork.com/hiring/mobile/cost-to-hire-a-mobile-developer/)
+		* Website maintenance: $30,000 ($13 an hour)
+		* Mobile app developer: $30,000 (Phonegap dev at $16 an hour)  (https://www.upwork.com/hiring/mobile/cost-to-hire-a-mobile-developer/)
 		* Full time hardware/software support x 2: $60,000 
 	* Taxes
 		* $808 for an LLC (www.calstartuplawfirm.com/Apps/calculate-2018.php calculator)
@@ -35,8 +35,6 @@ We have two major categories of costs:
 ### Variable costs Annual
 	* Insurance
 		* $50 per laptop (https://askbobrankin.com/do_you_need_laptop_insurance.html)
-	* Repair costs
-		* ~$80 per repair (https://www.pcworld.com/article/2907078/how-to-replace-a-broken-laptop-screen.html)
 	* Cost of shipping logistics for Laptops
 		* $13 per laptop for usps flat-rate box (https://www.usps.com/ship/priority-mail.htm)
 

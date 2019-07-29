@@ -4,6 +4,8 @@
 
   Team Leader: Louis Nodskov
   
+  [Return to business model canvas](https://github.com/KylePFisher/CIST2100/blob/master/README.md)
+  
 ## Our Key Partners
 
 * Shipping Services (USPS, UPS, FedEx)

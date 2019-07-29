@@ -4,6 +4,8 @@ Authors: Kyle, Louis, Son
 
 Team Leader: Kyle Fisher
 
+[Return to business model canvas](https://github.com/KylePFisher/CIST2100/blob/master/README.md)
+
 ## Key Activities
 
 Our key activities are shipping laptops for students to use. We'll be developing physical and digital products. In terms of physical products, we'll be providing our store front for students to help them make any choices on renting laptops. In terms of digital products our app will be looking to provide something to the similar effect of a store, but on a user's phone. We also have a website as a digital platform for information and orders. Problems will be solved through digital and physical means whether they have a question to ask on the app/website or in the store we'll be able to help. Also, if they have any problem with laptops during rental period, we can immediately provide fixes or laptop substitution since the business is local in Nebraska.

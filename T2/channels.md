@@ -4,6 +4,8 @@ Authors: Kyle, Louis, Son
 
 Team Leader: Louis Nodskov
 
+[Return to business model canvas](https://github.com/KylePFisher/CIST2100/blob/master/README.md)
+
 ## Customer Relationships
 
 The relationship we'd expect from our customers is largely a mix of Self-service and Automated services when purchasing and selecting products, with some Personal assistance support available for helping with incomplete orders or hardware/software issues.

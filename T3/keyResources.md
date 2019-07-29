@@ -8,7 +8,22 @@ Team Leader: Kyle Fisher
 
 ## Key Activities
 
-Our key activities are shipping laptops for students to use. We'll be developing physical and digital products. In terms of physical products, we'll be providing our store front for students to help them make any choices on renting laptops. In terms of digital products our app will be looking to provide something to the similar effect of a store, but on a user's phone. We also have a website as a digital platform for information and orders. Problems will be solved through digital and physical means whether they have a question to ask on the app/website or in the store we'll be able to help. Also, if they have any problem with laptops during rental period, we can immediately provide fixes or laptop substitution since the business is local in Nebraska.
+Our key activities are shipping laptops for students to use. We'll be developing physical and digital products. In terms of physical
+products, we'll be providing our store front for students to help them make any choices on renting laptops. This provides great value in
+that it allows students who do not have any access to technology to be able to rent a laptop via a physical location.
+
+In terms of digital products our app will be looking to provide something to the similar effect of a store, but on a user's phone. The
+value of this is obvious in that it allows users to use the app as if they were there in person.
+
+We also have a website as a digital platform for information and orders. This'll provide customers the opportunity to check the
+information of their orders and make sure everything is correct. 
+
+Any issues will be solved through digital and physical means whether they have a question to ask on the app/website or in the store
+we'll be able to help. This'll help the value of our business in that the customers will always have some form of assistance available 
+to them during the day.
+
+Also, if they have any problem with laptops during rental period, we can immediately provide fixes or laptop substitution since the 
+business is local in Nebraska. Like the previous activity this helps our business satisfy the customers needs of our service. 
 
 ## Key Resources
 

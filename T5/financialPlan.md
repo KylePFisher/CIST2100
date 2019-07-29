@@ -4,6 +4,8 @@ Authors: Kyle, Louis, Son
 
 Team Leader: Son Nguyen
 
+[Return to business model canvas](https://github.com/KylePFisher/CIST2100/blob/master/README.md)
+
 ## Our Cost Structure
 We have three major categories of costs:
 

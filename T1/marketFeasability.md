@@ -9,13 +9,17 @@ Team Leader: Son Nguyen
 ## Customer Segment ideas:
 Customer segment:
 
-    Targeting Students in the Omaha Metro area with a demand for a set of monthly-paid software in a certain semester to finish classes: engineering software for design class.
-        They need laptops that are faster than the libraries to save time
-        Ease of time for in state shipping or pickup at warehouse through order on website
-    People in need for a fast laptop with certain professional software
-        They need laptops that are faster than libraries to save time
-        Ease of time for in state shipping or pickup at warehouse through order on website
-        They just need it for a certain amount of days because there maybe problems with their own computers
+Targeting Students (age range 18-23) in the Omaha Metro area with a demand for a set of monthly-paid software in a certain semester to finish classes: 
+* Engineering software for design class.
+    * They need laptops that are faster than the libraries to save time.
+    * Ease of time for in state shipping or pickup at warehouse through order on website.
+* People in need for a fast laptop with certain professional software
+    * They need laptops that are faster than the libraries to save time.
+    * Ease of time for in state shipping or pickup at warehouse through order on website.
+    * They just need it for a certain amount of days because there may be problems with their own computers.
+
+Our main customer segment of students will consist of the student body of UNO and MCC which have 18,729 students total. These students
+will only need enough money to cover the daily payment price that they have on the laptop they are renting. 
 
 ## Value proposition ideas:
 The value from our business will come from the quick and easy online retail application we will build for renting laptops.

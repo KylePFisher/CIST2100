@@ -15,7 +15,9 @@ We have three major categories of costs:
 	* Ecommerce site development
 		* $20,000 (https://www.outerboxdesign.com/web-design-articles/ecommerce_website_pricing)
 	* Mobile app development
-		* $30,000 (Done through phonegap like tool, functionally a web-app with some more expertise)
+		* $30,000 (Done through phonegap like tool, functionally a web-app with some more expertise)	
+	* Registering the business
+		* $339 (https://www.northwestregisteredagent.com/nebraska-LLC.html)
 
 ### Fixed costs Annual
 	* Wages and Benefits
@@ -54,10 +56,7 @@ computers approximately 100 days a year and at a $5 per day flat rate (tenative 
 https://www.pewresearch.org/fact-tank/2018/10/26/nearly-one-in-five-teens-cant-always-finish-their-homework-because-of-the-digital-divide/
 
 
-
 ## Our Financial Plan
-* Sales forecast: $281,000 Annually
-* Expense Budget: $303,672
-* Income Projection: -$22,672
+![Financial analysis summary](https://github.com/KylePFisher/CIST2100/blob/financial-and-mockup-issues/T5/Financial%20analysis%20table.PNG)
 
 The business is not currently viable over a single year period, yet alone a three year period.

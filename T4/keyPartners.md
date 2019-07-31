@@ -8,7 +8,7 @@
   
 ## Our Key Partners
 
-* Shipping Services (USPS, UPS, FedEx)
+* Shipping Services (USPS)
   * Services from these companies will be vital for our business model. Through these services we can promise a timely arrival of our laptops
   for students who ordered them to their address. They also provide a key service for shipping any hardware we made need to fix our laptops
   when they eventually get broken. They help us reduce costs by allowing us to rely on their logistics systems instead of building our own.

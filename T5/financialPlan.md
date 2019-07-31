@@ -54,7 +54,6 @@ computers approximately 100 days a year and at a $5 per day flat rate (tenative 
 https://www.pewresearch.org/fact-tank/2018/10/26/nearly-one-in-five-teens-cant-always-finish-their-homework-because-of-the-digital-divide/
 
 
-
 ## Our Financial Plan
 ![Financial analysis summary](https://github.com/KylePFisher/CIST2100/blob/financial-and-mockup-issues/T5/Financial%20analysis%20table.PNG)
 

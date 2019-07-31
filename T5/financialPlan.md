@@ -56,8 +56,6 @@ https://www.pewresearch.org/fact-tank/2018/10/26/nearly-one-in-five-teens-cant-a
 
 
 ## Our Financial Plan
-* Sales forecast: $281,000 Annually
-* Expense Budget: $303,672
-* Income Projection: -$22,672
+![Financial analysis summary](https://github.com/KylePFisher/CIST2100/blob/financial-and-mockup-issues/T5/Financial%20analysis%20table.PNG)
 
 The business is not currently viable over a single year period, yet alone a three year period.

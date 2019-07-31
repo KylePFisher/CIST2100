@@ -15,8 +15,7 @@ We have three major categories of costs:
 	* Ecommerce site development
 		* $20,000 (https://www.outerboxdesign.com/web-design-articles/ecommerce_website_pricing)
 	* Mobile app development
-		* $30,000 (Done through phonegap like tool, functionally a web-app with some more expertise)
-		
+		* $30,000 (Done through phonegap like tool, functionally a web-app with some more expertise)	
 	* Registering the business
 		* $339 (https://www.northwestregisteredagent.com/nebraska-LLC.html)
 

@@ -14,11 +14,9 @@ Business model: Lending high-performance laptops to a certain group of students 
   <tr>
     <td rowspan="2">
       <h3><a href="https://github.com/KylePFisher/CIST2100/blob/master/T4/keyPartners.md#our-key-partners">Key Partners</a></h3>
-      <b>Shipping Companies</b>
+      <b>Shipping Company</b>
       <ul>
-        <li>UPS</li>
         <li>USPS</li>
-        <li>Fedex</li>
       </ul>
       <b>Laptop distributors</b>
       <ul>
@@ -86,12 +84,26 @@ Business model: Lending high-performance laptops to a certain group of students 
   </tr>
   <tr>
     <td colspan="3">
-      <h3>Cost Structure</h3>
-      <b>TBD</b>
+      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/master/T5/financialPlan.md#our-cost-structures">Cost Structure</a></h3>
+      <b>Fixed costs</b>
+      <ul>
+	<li>Wages and Benefits: $211,000</li>
+	<li>Taxes: $808</li>
+	<li>Rent: $43,200</li>
+	<li>Advertising: $1,264</li>
+	<li>Software licensing: $45,000</li>
+	<li>Site and API hosting: $2,400</li>
+      </ul>
+      <b>Variable costs</b>
+      <ul>
+	<li>Insurance: $50 per laptop</li>
+	<li>Shipping: $13 per shipped device</li>
+      </ul>
+      <b>Grand total: $322,572</b>
     </td>
     <td colspan="3">
-      <h3>Revenue Streams</h3>
-      <b>TBD</b>
+      <h3><a href="https://github.com/KylePFisher/CIST2100/blob/master/T5/financialPlan.md#our-revenue-streams">Revenue Streams</a></h3>
+	    <p>1-6% of the student population of MCC and UNO: 562 students. A $5 per day flat rate for a total revenue of $281,000 a year</p>
     </td>
   </tr>
 </table>

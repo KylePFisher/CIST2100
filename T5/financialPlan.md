@@ -18,6 +18,8 @@ We have three major categories of costs:
 		* $30,000 (Done through phonegap like tool, functionally a web-app with some more expertise)	
 	* Registering the business
 		* $339 (https://www.northwestregisteredagent.com/nebraska-LLC.html)
+	* Buying the domain laptopsforstudents.com
+		* $3,200 (https://www.domain.com/registration)
 
 ### Fixed costs Annual
 	* Wages and Benefits
